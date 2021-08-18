@@ -1,0 +1,39 @@
+body{
+    overflow-x: hidden;
+    font-family: 'DM Sans', sans-serif;
+}
+.social{
+    background:#9EA9B8;
+    border-radius: 10px;
+}
+a{
+    color: black !important;
+    text-decoration: none !important;
+}
+h3{
+    color: #343434;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 17px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+}
+h4{
+    font-weight: normal;
+    font-size: 13px;
+    display: flex;
+    line-height: 20px;
+    align-items: center;
+    text-align: center;
+    color: #9EA9B8;
+}
+p{
+    font-style: normal;
+    font-weight: normal;
+    font-size: 17px;
+    line-height: 145%;
+    align-items: center;
+    
+    color: #333333;
+}
